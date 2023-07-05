@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="RcvLogo">
+    <file>rcvLogo.png</file>
+  </qresource>
+  <qresource prefix="idrbtfooter">
+    <file>idrbtfooter.png</file>
+  </qresource>
+  <qresource prefix="idrbtcalogo">
+    <file>idrbtcalogo.jpg</file>
+  </qresource>
+</RCC>
